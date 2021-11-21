@@ -1,5 +1,7 @@
 # CP109LPIN1    RA 150993
 
+![FotoAF1WebEnricoAcquaviva](https://user-images.githubusercontent.com/28276248/142780680-228486c2-7587-4d83-a7db-b9e30c2b9bc4.PNG)
+
 ## Project setup (Instalar)
 ```
 npm install
@@ -25,4 +27,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-![FotoAF1WebEnricoAcquaviva](https://user-images.githubusercontent.com/28276248/142780680-228486c2-7587-4d83-a7db-b9e30c2b9bc4.PNG)
